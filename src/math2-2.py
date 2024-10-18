@@ -1,3 +1,4 @@
+print("Hello World")
 def partition(list,low,high):
     i = low-1
     pivot = list[high]
