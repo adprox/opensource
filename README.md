@@ -27,9 +27,3 @@
   - `matplotlib` 또는 `plotly`: 데이터 시각화 및 차트 생성
   - `pandas`, `numpy`: 데이터 조작 및 기술적 지표 계산
   - `flask` 또는 `django`: 웹 기반 사용자 인터페이스를 위한 프레임워크 (선택 사항)
-
-## 설치 방법
-1. 리포지토리 클론:
-   ```bash
-   git clone https://github.com/your-username/stock-analysis-program.git
-   cd stock-analysis-program
